@@ -34,14 +34,23 @@ Blinkit Grocery Sales Dataset
 
 # Dashboard Preview
 
-## Main Dashboard
-![Dashboard](screenshots/dashboard.png)
+## Outlet Establishment Trend
+![Outlet Establishment Trend](screenshots/outlet_establishment_trend.png)
 
-## Sales Analysis
-![Sales Analysis](screenshots/sales_analysis.png)
+## Outlet Size Distribution
+![Outlet Size Distribution](screenshots/outlet_size_distribution.png)
 
-## Category Performance
-![Category Performance](screenshots/category_performance.png)
+## Outlet Tier by Fat Content
+![Outlet Tier by Fat Content](screenshots/outlet_tier_fat_content.png)
+
+## Sales by Fat Content
+![Sales by Fat Content](screenshots/sales_by_fat_content.png)
+
+## Total Sales by Item Type
+![Sales by Item Type](screenshots/sales_by_item_type.png)
+
+## Total Sales by Outlet Location
+![Sales by Outlet Location](screenshots/sales_by_outlet_location.png)
 
 ---
 
