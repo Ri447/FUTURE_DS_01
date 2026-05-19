@@ -3,6 +3,9 @@
 ## Internship Details
 This project was completed as part of the Data Science & Analytics Internship offered by Future Interns.
 
+## Project Type
+Business Sales Performance Analytics
+
 ## Project Objective
 The goal of this project is to analyze Blinkit sales data to identify:
 - Revenue trends
@@ -56,30 +59,43 @@ Blinkit Grocery Sales Dataset
 
 # Business Insights
 
-### 1. Tier 3 outlets generated the highest overall sales.
-This indicates stronger customer demand and purchasing activity in Tier 3 locations compared to Tier 1 and Tier 2 outlets.
+### 1. Tier 3 outlets generated the highest total sales.
+This indicates that Tier 3 locations had stronger customer demand and overall better sales performance compared to Tier 1 and Tier 2 outlets.
 
-### 2. Snack Foods and Fruits & Vegetables were among the top-performing categories.
-These categories contributed significantly to overall revenue and showed consistently high customer demand.
+### 2. Medium-sized outlets contributed the largest share of sales.
+Outlet size appears to directly influence product variety and customer purchasing activity.
 
-### 3. Medium-sized outlets achieved better sales performance than small outlets.
-This suggests that product variety and outlet capacity positively impact sales volume.
+### 3. Low-fat products generated higher overall sales than regular products.
+This suggests growing customer preference toward healthier product options.
 
-### 4. Products with higher visibility tended to perform better in sales.
-Better shelf placement and visibility appear to influence customer purchasing decisions.
+### 4. Fruits & Vegetables and Snack Foods were the highest-performing product categories.
+These categories contributed the most revenue and showed consistently high demand.
 
-### 5. Regular-fat products generated slightly higher revenue than low-fat products.
-This may reflect customer preference trends within the grocery segment.
+### 5. Seafood and Breakfast categories recorded the lowest sales.
+These categories may require improved marketing strategies or inventory optimization.
+
+### 6. Sales remained relatively stable across most outlet establishment years.
+However, older outlets established around 1998 generated significantly higher sales compared to newer outlets.
 
 ---
 
 # Business Recommendations
 
-- Increase inventory levels for high-performing product categories.
-- Focus marketing efforts on Tier 3 outlet regions to maximize revenue growth.
-- Improve visibility and placement strategies for low-performing products.
-- Expand medium-sized outlet operations where customer demand is high.
-- Use customer purchasing trends to optimize product distribution and promotions.
+- Increase inventory and promotional efforts for high-performing categories such as Fruits & Vegetables and Snack Foods.
+- Expand operations in Tier 3 locations due to their strong revenue contribution.
+- Focus on medium-sized outlets, as they demonstrate the best overall sales performance.
+- Improve visibility and promotional strategies for low-performing categories like Seafood and Breakfast items.
+- Introduce targeted marketing campaigns for regular-fat products to improve category balance.
+- Analyze successful older outlets to identify strategies that can be replicated in newer stores.
+
+---
+
+# Repository Contents
+
+- `BlinkIT Grocery Data.ipynb` → Data analysis notebook
+- `requirements.txt` → Required Python libraries
+- `screenshots/` → Dashboard and chart visualizations
+- `README.md` → Project documentation
 
 ---
 
